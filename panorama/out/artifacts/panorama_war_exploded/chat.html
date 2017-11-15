@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #chat{
+            : ;
+        }
+    </style>
+    <script>
+        var a = $(window.frames["iframe1"].document).find("#w").html();
+        //        var username = "my720username";
+        console.log(a.value);
+//function ppp(){
+//    return myValue;
+//}
+//        var str = username+"="+value;
+//        str += "; path=/; domain=127.0.0.1:1356";
+//        document.cookie = str;
+//        document.getElementById("msg").setAttribute("value",value);
+//        document.getElementById("msg").contentWindow.name = value;
+//        console.log(window.frames[1].name);
+    </script>
+</head>
+<!--<frameset cols="50%,50%">-->
+    <!--<frame name="play" src="http://127.0.0.1:8081/iframe-video.html" width=50% height=900vw frameborder="0"></frame>-->
+    <!--<FRAME name="chat" width=50% height=900vw frameborder=0 src="http://127.0.0.1:1356" ></FRAME >-->
+
+<!--</frameset>-->
+<iframe  id="frame1" src="http://127.0.0.1:8081/iframe-video.html" width="80%" height="60%" frameborder="0"></iframe>
+<iframe id="name" src="http://127.0.0.1:1356" frameborder="0"></iframe>
+<div id="msg"></div>
+</html>
