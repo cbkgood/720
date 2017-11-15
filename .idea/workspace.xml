@@ -2,71 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4162daf0-62f4-482b-8b62-54ecae22aa1d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/.idea/artifacts/panorama_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/assets/fisheye.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/assets/image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/assets/poster-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/assets/poster.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/chat.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/dist/videojs-panorama.common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/dist/videojs-panorama.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/dist/videojs-panorama.es6.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/dist/videojs-panorama.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/dist/videojs-panorama.v4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/dist/videojs-panorama.v4.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/dist/videojs-panorama.v5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/dist/videojs-panorama.v5.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/iframe-video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/iframe.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/image.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/play.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/styles/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/vrview/build/device-motion-sender.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/vrview/build/embed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/vrview/build/three.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/vrview/build/vrview.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/vrview/images/ic_info_outline_black_24dp.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/vrview/images/ic_play_arrow_white_24dp.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/vrview/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/vrview/index-minified.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/vrview/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/out/artifacts/panorama_war_exploded/vrview/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/panorama.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/assets/fisheye.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/assets/image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/assets/poster-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/assets/poster.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/chat.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/dist/videojs-panorama.common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/dist/videojs-panorama.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/dist/videojs-panorama.es6.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/dist/videojs-panorama.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/dist/videojs-panorama.v4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/dist/videojs-panorama.v4.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/dist/videojs-panorama.v5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/dist/videojs-panorama.v5.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/iframe-video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/iframe.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/image.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/play.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/styles/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/vrview/build/device-motion-sender.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/vrview/build/embed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/vrview/build/three.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/vrview/build/vrview.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/vrview/images/ic_info_outline_black_24dp.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/vrview/images/ic_play_arrow_white_24dp.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/vrview/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/vrview/index-minified.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/vrview/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/panorama/web/vrview/style.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zhibo1/WebContent/jsp/msg.jsp" afterPath="$PROJECT_DIR$/zhibo1/WebContent/jsp/msg.jsp" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,12 +12,33 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="msg.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zhibo1/WebContent/jsp/msg.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="7" lean-forward="false" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/zhibo1/WebContent/jsp/msg.jsp" />
+      </list>
     </option>
   </component>
   <component name="JsBowerSettings">
@@ -568,6 +526,31 @@
               <item name="720" type="b2602c69:ProjectViewProjectNode" />
               <item name="720" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="720" type="b2602c69:ProjectViewProjectNode" />
+              <item name="720" type="462c0819:PsiDirectoryNode" />
+              <item name="zhibo1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="720" type="b2602c69:ProjectViewProjectNode" />
+              <item name="720" type="462c0819:PsiDirectoryNode" />
+              <item name="zhibo1" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="720" type="b2602c69:ProjectViewProjectNode" />
+              <item name="720" type="462c0819:PsiDirectoryNode" />
+              <item name="zhibo1" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="720" type="b2602c69:ProjectViewProjectNode" />
+              <item name="720" type="462c0819:PsiDirectoryNode" />
+              <item name="zhibo1" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -687,15 +670,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510759426740</updated>
-      <workItem from="1510759427914" duration="20000" />
+      <workItem from="1510759427914" duration="152000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20000" />
+    <option name="totallyTimeSpent" value="152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -709,7 +693,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12153518" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12153518" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -734,6 +718,16 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/zhibo1/WebContent/jsp/msg.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="7" lean-forward="false" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

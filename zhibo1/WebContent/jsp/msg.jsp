@@ -8,6 +8,7 @@
 <title>Insert title here</title>
 <link href="${pageContext.request.contextPath}/css/style.css" rel="stylesheet" type="text/css"/>
 </head>
+<%--asdasd--%>
 <body>
 <div id="divcontent">
 <table width="850px" border="0" cellspacing="0">
